@@ -1,10 +1,12 @@
 <h1 class="d-flex-justify-content-center"> ¡ Hi there 👋 ! I'm Dinorah, Full Stack Web Developer 👩‍💻 </h1>
 
-I consider myself a **responsible and proactive** person in terms of deadlines and objectives to meet. I enjoy learning new technologies and improving myself day by day, working as a team, contributing new ideas and at the same time listening to those of my colleagues. 
-I'm also a lawyer, which gave me experience in dealing with the client and in solving problems
+<p>I consider myself a **responsible and proactive** person in terms of deadlines and objectives to meet. I enjoy learning new technologies and improving myself day by day, working as a team, contributing new ideas and at the same time listening to those of my colleagues. 
+I'm also a lawyer, which gave me experience in dealing with the client and in solving problems</p>
 
-<p> • 🚀 I’m looking to collaborate on fullstack projects in a team </p>
-<p> • 🌱 Nature and animal lover </p>
+<ul>
+   <li>🚀 I’m looking to collaborate on fullstack projects in a team </li>
+   <li>🌱 Nature and animal lover </li>
+</ul>
 
 ### Lenguages and Tools
    <a href="https://www.ruby-lang.org/en/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" style="max-width: 100%;"> </a>
