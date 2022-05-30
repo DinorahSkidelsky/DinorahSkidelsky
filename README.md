@@ -19,6 +19,8 @@ I'm also a lawyer, which gave me experience in dealing with the client and in so
    <a href="https://trello.com/es" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
    
    
+   
+   
 ### Get in touch 📲
    ##### • LinkedIn: https://www.linkedin.com/in/dinorahskidelsky/
    ##### • E-mail: dinorahskidelsky@gmail.com
