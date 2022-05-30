@@ -1,4 +1,4 @@
-<h1 class="d-flex-justify-content-center"> ¡ Hi there 👋 ! I'm Dinorah, Full Stack Developer 👩‍💻</h1>
+<h1> ¡ Hi there 👋 ! I'm Dinorah, Full Stack Developer 👩‍💻</h1>
 
 <p>I consider myself a <strong>responsible and proactive</strong> person in terms of deadlines and objectives to meet. I enjoy learning new technologies and improving myself day by day, working as a team, contributing new ideas and at the same time listening to those of my colleagues. 
 I'm also a lawyer, which gave me experience in dealing with the client and in solving problems</p>
@@ -25,5 +25,7 @@ I'm also a lawyer, which gave me experience in dealing with the client and in so
    
    
 ### Get in touch 📲
-   [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/dinorahskidelsky/)
+<ul>
+    <li><a href="https://www.linkedin.com/in/dinorahskidelsky/)" rel="nofollow"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a></li>
    <li>E-mail: <a href="mailto:dinorahskidelsky@gmail.com">dinorahskidelskym@gmail.com</a></li>
+ </ul>
