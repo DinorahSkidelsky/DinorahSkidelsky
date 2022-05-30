@@ -8,8 +8,8 @@
 
 
 #### Get in touch 📲
-   •LinkedIn: https://www.linkedin.com/in/dinorahskidelsky/
-   •E-mail: dinorahskidelsky@gmail.com
+   -LinkedIn: https://www.linkedin.com/in/dinorahskidelsky/
+   -E-mail: dinorahskidelsky@gmail.com
 
 
 <!--
