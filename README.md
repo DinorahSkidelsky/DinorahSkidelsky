@@ -3,8 +3,8 @@
 I consider myself a responsible and proactive person in terms of deadlines and objectives to meet. I enjoy learning new technologies and improving myself day by day, working as a team, contributing new ideas and at the same time listening to those of my colleagues. I am also a lawyer, which gave me experience in dealing with the client and in solving problems ✨
 
 
-#### My skills❗️(*although not exclusively since I am constantly learning*) 
-   ##### • Ruby on Rails
+#### Lenguages and Tools❗️(*although not exclusively since I am constantly learning*) 
+   ##### • (https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
    ##### • JavaScript
    ##### • HTML5
    ##### • CSS3
