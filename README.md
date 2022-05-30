@@ -4,10 +4,10 @@ I consider myself a responsible and proactive person in terms of deadlines and o
 
 
 #### Lenguages and Tools❗️(*although not exclusively since I am constantly learning*) 
-   • ![https://getbootstrap.com/](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+   ##### • ![https://getbootstrap.com/](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
    ##### • JavaScript
    ##### • HTML5
-   ##### • CSS3
+   ##### • <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
    ##### • Bootstrap
    ##### • PostgreSQL
    ##### • Heroku
