@@ -3,7 +3,13 @@
 ##### <sub>I consider myself a responsible and proactive person in terms of deadlines and objectives to meet. I enjoy learning new technologies and improving myself day by day, working as a team, contributing new ideas and at the same time listening to those of my colleagues. I am also a lawyer, which gave me experience in dealing with the client and in solving problems</sub>
 
 
-#### My Skills (*although not exclusively since I am constantly learning*) 
+#### My skills❗️(*although not exclusively since I am constantly learning*) 
+
+
+
+#### Get in touch 📲
+   •LinkedIn: https://www.linkedin.com/in/dinorahskidelsky/
+   •E-mail: dinorahskidelsky@gmail.com
 
 
 <!--
