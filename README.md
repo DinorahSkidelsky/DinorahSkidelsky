@@ -4,7 +4,7 @@ I consider myself a responsible and proactive person in terms of deadlines and o
 
 
 #### Lenguages and Tools❗️(*although not exclusively since I am constantly learning*) 
-   ##### • (src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg")
+   ##### • [https://getbootstrap.com/](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
    ##### • JavaScript
    ##### • HTML5
    ##### • CSS3
