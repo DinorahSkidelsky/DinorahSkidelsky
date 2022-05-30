@@ -4,6 +4,7 @@
 I'm also a lawyer, which gave me experience in dealing with the client and in solving problems</p>
 
 <ul>
+   <li>📚 Constantly learning new technologies and tools</li>
    <li>🚀 I’m looking to collaborate on fullstack projects in a team </li>
    <li>🌱 Nature and animal lover </li>
 </ul>
