@@ -24,5 +24,6 @@ I'm also a lawyer, which gave me experience in dealing with the client and in so
    
    
 ### Get in touch 📲
-   ##### • LinkedIn: https://www.linkedin.com/in/dinorahskidelsky/
-   ##### • E-mail: dinorahskidelsky@gmail.com
+<ul>
+   <li>LinkedIn: https://www.linkedin.com/in/dinorahskidelsky/</li>
+   <li>E-mail: dinorahskidelsky@gmail.com</li>
