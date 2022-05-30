@@ -1,8 +1,10 @@
 <h1 class="d-flex-justify-content-center"> ¡ Hi there 👋 ! I'm Dinorah, Full Stack Web Developer 👩‍💻 </h1>
 
 I consider myself a **responsible and proactive** person in terms of deadlines and objectives to meet. I enjoy learning new technologies and improving myself day by day, working as a team, contributing new ideas and at the same time listening to those of my colleagues. 
-I'm also a lawyer, which gave me experience in dealing with the client and in solving problems 🌱
+I'm also a lawyer, which gave me experience in dealing with the client and in solving problems
 
+• 🚀 I’m looking to collaborate on fullstack projects in a team
+• 🌱 Nature and animal lover
 
 ### Lenguages and Tools
    <a href="https://www.ruby-lang.org/en/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" style="max-width: 100%;"> </a>
@@ -19,24 +21,6 @@ I'm also a lawyer, which gave me experience in dealing with the client and in so
    <a href="https://trello.com/es" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
    
    
-   
-   
 ### Get in touch 📲
    ##### • LinkedIn: https://www.linkedin.com/in/dinorahskidelsky/
    ##### • E-mail: dinorahskidelsky@gmail.com
-
-
-<!--
-**DinorahSkidelsky/DinorahSkidelsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
