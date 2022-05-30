@@ -1,4 +1,4 @@
-<h1><strong> Hi there! I'm Dinorah, Full Stack Web Developer 👩‍💻 </strong>
+<h1> ¡Hi there! I'm Dinorah, Full Stack Web Developer 👩‍💻 </h1>
 
 <!--
 **DinorahSkidelsky/DinorahSkidelsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
