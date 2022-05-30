@@ -1,6 +1,7 @@
-# ¡ Hi there 👋 ! I'm Dinorah, Full Stack Web Developer 👩‍💻
+# ¡ Hi there 👋 ! I'm Dinorah
+## Full Stack Web Developer 👩‍💻
 
-##### I consider myself a responsible and proactive person in terms of deadlines and objectives to meet. I enjoy learning new technologies and improving myself day by day, working as a team, contributing new ideas and at the same time listening to those of my colleagues. I am also a lawyer, which gave me experience in dealing with the client and in solving problems ✨
+I consider myself a responsible and proactive person in terms of deadlines and objectives to meet. I enjoy learning new technologies and improving myself day by day, working as a team, contributing new ideas and at the same time listening to those of my colleagues. I am also a lawyer, which gave me experience in dealing with the client and in solving problems ✨
 
 
 #### My skills❗️(*although not exclusively since I am constantly learning*) 
