@@ -28,5 +28,5 @@ I am also a lawyer, which gave me communication and problem-solving skills ✨</
 ### Get in touch 📲
 <ul>
     <li>LinkedIn: https://www.linkedin.com/in/dinorah-skidelsky/
-   <li>E-mail: <a href="mailto:dinorahskidelsky@gmail.com">dinorahskidelskym@gmail.com</a></li>
+   <li>E-mail: <a href="mailto:dinorahskidelsky@gmail.com">dinorahskidelsky@gmail.com</a></li>
  </ul>
