@@ -4,9 +4,10 @@
 I am also a lawyer, which gave me communication and problem-solving skills ✨</p>
 
 <ul>
+   <li>🌱 Nature and animal lover </li>
    <li>📚 Constantly learning new technologies and tools</li>
    <li>🚀 I’m looking to collaborate on projects in a team </li>
-   <li>🌱 Nature and animal lover </li>
+   <li>Know about my experiences <a href="https://www.canva.com/design/DAFCRxnFdTw/B_wp0uLN0NDZ1IwmZym1Ig/edit?utm_content=DAFCRxnFdTw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">here</a></li>
 </ul>
 
 ### Lenguages and Tools
