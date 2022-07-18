@@ -1,4 +1,4 @@
-<h1> ¡ Hi there 👋 ! I'm Dinorah, Jr. Software Developer 👩‍💻</h1>
+<h1> ¡ Hi there 👋 ! I'm Dinorah, Full Stack Developer 👩‍💻</h1>
 
 <p>I consider myself a <strong>responsible and proactive</strong> person in terms of deadlines and objectives to meet. I enjoy learning new technologies and improving myself day by day, working as a team, contributing new ideas and at the same time listening to those of my colleagues. 
 I am also a lawyer, which gave me communication and problem-solving skills ✨</p>
