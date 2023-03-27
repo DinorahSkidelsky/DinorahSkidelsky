@@ -1,4 +1,4 @@
-<h1> ¡ Hi there 👋 ! I'm Dinorah, Full Stack Developer 👩‍💻</h1>
+<h1> ¡ Hi there 👋 ! I'm Dinorah, Junior Web Developer 👩‍💻</h1>
 
 <p>I consider myself a <strong>responsible and proactive</strong> person in terms of deadlines and objectives to meet. I enjoy learning new technologies and improving myself day by day, working as a team, contributing new ideas and at the same time listening to those of my colleagues. 
 I am also a lawyer, which gave me communication and problem-solving skills ✨</p>
@@ -6,7 +6,6 @@ I am also a lawyer, which gave me communication and problem-solving skills ✨</
 <ul>
    <li>🌱 Nature and animal lover </li>
    <li>📚 Constantly learning new technologies and tools</li>
-   <li>🚀 I’m looking to collaborate on projects in a team </li>
    <li>📄 <a href="https://www.canva.com/design/DAFCRxnFdTw/ekDz2bcUPAZJlPLl4mQnXQ/view">Know about my experiences</a></li>
 </ul>
 
